@@ -1,0 +1,74 @@
+.container{
+  width: 80%;
+  height: 75%;
+}
+
+body{
+  background: #fffbbc ;
+}
+
+h1{
+  background: #d2f77c;
+  text-align: center;
+  margin-top: 50px;
+  padding: 1.8% ;
+}
+
+iframe{
+  margin: 3.5%;
+  margin-left: 28% ;
+
+}
+
+h2{
+  margin-top: 1.8%;
+  text-align: center;
+  background: #d2f77c;
+  padding: 1.8%;
+}
+
+.fundadores{
+  font-size: medium;
+  padding: 1%;
+}
+
+.actividad{
+  margin-left:550px;
+}
+
+.insta{
+  color: #DD2A7B;
+  margin-left: 50px;
+
+}
+ .insta:hover{
+   color: purple;
+ }
+
+ .navbar-brand{
+   font-size: 35px;
+ }
+
+footer{
+  background: #07cbbf;
+  color: #ffefb4 ;
+}
+
+ .nav-link{
+   font-size: 35px;
+ }
+
+
+h5{
+  color: #ffefb4;
+}
+
+.fot{
+  color: #ffefb4;
+}
+
+.loca{
+  text-align: center;
+  background: red;
+  padding: 1.5%;
+}
